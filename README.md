@@ -3,4 +3,4 @@ NCMPIC it's a program where you can make conversations safer, avoiding first gla
 
 Cypher method is safe, because is not like A=1, B=2 ..., we have our secrets.
 
-NCMPIC, is semi-cross platorm; We're supporting Android, and PC (Windows & Linux (Requires Mono)).
+NCMPIC, is semi-cross platorm; We're supporting Android, and PC (Windows & Linux (Requires Mono or Qt 5)).
